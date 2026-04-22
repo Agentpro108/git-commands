@@ -8,3 +8,5 @@
 *This is em*
 _This is also em_
 
+**This is strong**
+__This is also strong__

@@ -10,3 +10,9 @@ _This is also em_
 
 **This is strong**
 __This is also strong__
+
+* this
+* is
+* an
++ unordered
+- list

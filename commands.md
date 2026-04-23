@@ -20,6 +20,8 @@ __This is also strong__
 1. This is one
 2. This is two
 
+
+
 - clone
 Create a copy of a remote repository on your local machine.
 
@@ -29,41 +31,41 @@ Switch between branches or restore working tree files.
     + -b
 Create a new branch and switch to it immediately.
 
-## status
+- status
 Show the current state of the working directory and staging area.
 
-## push
+- push
 Upload local commits to a remote repository.
 
-### -u
+    + -u
 Set the upstream (default) branch for future pushes and pulls.
 
-## pull
+- pull
 Fetch changes from a remote repository and merge them into the current branch.
 
-## add
+- add
 Add file changes to the staging area.
 
-## commit
+- commit
 Record changes to the repository.
 
-### -m
+    + -m
 Add a commit message inline.
 
-### -a
+    + -a
 Automatically stage modified and deleted files before committing.
 
-### -am
+    + -am
 Combine `-a` and `-m` to stage changes and include a message in one command.
 
-## branch
+- branch
 List, create, or delete branches.
 
-### -a
+    + -a
 Show all branches (local and remote).
 
-### -d
+    + -d
 Delete a branch.
 
-## merge
+- merge
 Combine changes from one branch into another.

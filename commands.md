@@ -20,13 +20,13 @@ __This is also strong__
 1. This is one
 2. This is two
 
-## clone
+- clone
 Create a copy of a remote repository on your local machine.
 
-## checkout
+- checkout
 Switch between branches or restore working tree files.
 
-### -b
+    + -b
 Create a new branch and switch to it immediately.
 
 ## status
